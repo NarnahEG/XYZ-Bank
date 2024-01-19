@@ -4,7 +4,7 @@
   "description": "An exploratory test using Cypress.",
   "main": "index.js",
   "scripts": {
-    "cypress-local": "npm cypress run"
+    "cypress-local": "npx cypress run"
   },
   "keywords": [],
   "author": "",
